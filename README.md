@@ -3,7 +3,7 @@
 - 📚 I’m currently learning Reactjs.
 - 🏢 I’m looking for an oportunity to keep developing myself in a professional environment.
 
-Thanks for visiting.
+Thanks for visiting! 😀
 
 <!---
 malarcongh/malarcongh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
