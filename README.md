@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Miguel Alarcon.
 - 🤓 I’m interested in Web Development in general.
-- 📚 I’m currently learning Reactjs.
+- 👨‍💻 My stack is HTML, CSS, SASS, JavaScript and React.
+- 📚 I’m currently learning Next.js.
 - 🏢 I’m looking for an oportunity to keep developing myself in a professional environment.
 
 Thanks for visiting! 😀
